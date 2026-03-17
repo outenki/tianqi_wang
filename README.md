@@ -4,10 +4,8 @@
 
 ---
 
-### 🔬 Research & Professional Interests
-* **LLM Optimization:** Focus on training dynamics, loss functions, and SFT (Supervised Fine-Tuning) strategies for models like SmolLM2 and GPT-2.
-* **Knowledge Dynamics:** Investigating internal/external knowledge conflicts and mechanisms for knowledge decoupling.
-* **Automation & Quant:** Developing LLM-powered agents (via Nanobot) for intelligent market monitoring and decision-making.
+### 📄 Publications
+* TBD
 
 ---
 
@@ -23,14 +21,7 @@
 * **2014 – 2016:** **M.S. in Information Sciences**, Tohoku University
 * **2008 – 2012:** **B.Eng. (Bachelor)**, Harbin Institute of Technology (HIT)
 
----
-
-### 📄 Publications
-* TBD
 
 ---
 
----
-
-### 📬 Connect with Me
 * 📧 **Email:** tianqi.wang.a2 at tohoku.ac.jp
